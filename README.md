@@ -12,7 +12,6 @@ Gallows game by Good Programmer
 ```
 cd rubytut
 ruby main.rb
-
 ```
 
 # Как добавить свои слова в игру?
