@@ -1,5 +1,6 @@
 ![Image alt](https://github.com/yegorch/gallows/blob/main/maxresdefault.jpg)
 
+
 # Виселица
 Gallows game by Good Programmer
 Вам нужно вводить в консоли буквы, чтобы угадать нужное слово. Если введенная буква есть в игре - она отобразится в консоли.
@@ -7,12 +8,14 @@ Gallows game by Good Programmer
 # Игра написанная на ОПП(Ruby):
 Все слова игры хранятся в файле words.txt, игра поделена на 2 основных класса Game и ConsoleInterface, запуск программы происходит через main.rb
 
+
 # Как запустить игру?
 
 ```
 cd rubytut
 ruby main.rb
 ```
+
 
 # Как добавить свои слова в игру?
 
