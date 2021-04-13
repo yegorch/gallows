@@ -34,9 +34,9 @@ ruby main.rb
 gem install colorize
 ```
 
-Также для управления gem'ами требуется запустить команду:
+Также для управления gem'ами и запуску игры требуется вызвать команду:
 
 
 ```
-bundle exec colorize main.rb
+bundle exec ruby main.rb
 ```
