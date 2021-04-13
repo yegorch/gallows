@@ -38,5 +38,5 @@ gem install colorize
 
 
 ```
-bundle
+bundle exec colorize main.rb
 ```
